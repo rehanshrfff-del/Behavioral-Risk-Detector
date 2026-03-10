@@ -1,4 +1,4 @@
-class BehavioralRiskEngine:
+yclass BehavioralRiskEngine:
 
     def __init__(self):
         self.risk_score = 0
